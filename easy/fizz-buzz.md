@@ -1,12 +1,12 @@
- # Add Two Numbers
+ # Fizz Buzz
 ### Leetcode Easy Challenge
 
 Below are my completed solutions to python challenges on [leetcode](https://leetcode.com/). This page is one of my portfolios in working on python challenges from leetcode.
 
 
-### 2. Add two numbers
-* **Description:** Sum two non-negative integers represented by linked lists with digits stored in reverse order. Return the final total as a new linked list.
-* **Links:** [Solution](medium/add-two-numbers) | [Leetcode Problem](https://leetcode.com/problems/add-two-numbers/)
+### 412. Fizz Buzz
+* **Description:** Construct a list of length n with the condition that it contains "fizz" and "buzz" for n being a multiple of a certain number.
+* **Links:** [Leetcode Problem](https://leetcode.com/problems/fizz-buzz) -->
 
 
 ### Approach

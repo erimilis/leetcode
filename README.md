@@ -62,7 +62,7 @@ My profile link: [LinkedIn](https://id.linkedin.com/in/eriyawan) | [HackerRank](
 * **Links:** [Solution](easy/two-sum.md) | [Leetcode Problem](https://leetcode.com/problems/two-sum)
 
 ### 9. Palindrome Number
-* **Description:** Sssess whether a given number is a palindrome or not.
+* **Description:** Assess whether a given number is a palindrome or not.
 * **Links:** [Solution](easy/palindrome-number.md) | [Leetcode Problem](https://leetcode.com/problems/palindrome-number)
 
 ### 13. Roman to Integer

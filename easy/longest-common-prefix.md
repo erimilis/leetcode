@@ -1,12 +1,12 @@
- # Add Two Numbers
+ # Longest Common Prefix
 ### Leetcode Easy Challenge
 
 Below are my completed solutions to python challenges on [leetcode](https://leetcode.com/). This page is one of my portfolios in working on python challenges from leetcode.
 
 
-### 2. Add two numbers
-* **Description:** Sum two non-negative integers represented by linked lists with digits stored in reverse order. Return the final total as a new linked list.
-* **Links:** [Solution](medium/add-two-numbers) | [Leetcode Problem](https://leetcode.com/problems/add-two-numbers/)
+### 14. Longest Common Prefix
+* **Description:** Find the longest common prefix string amongst an array of strings
+* **Links:** [Leetcode Problem](https://leetcode.com/problems/longest-common-prefix)
 
 
 ### Approach
